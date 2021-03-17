@@ -37,7 +37,10 @@ h1,h2,h3,h4{
     margin-bottom: auto;
 }
 
-picture{
-
+image{
+max-width: 20%;
+  height: auto;
+  
+  
   align:center;
 }
