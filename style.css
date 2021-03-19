@@ -1,0 +1,199 @@
+
+
+body{
+background-color: #2E2532;
+
+
+}
+
+   header {
+        background-color: #4a4a4a;
+        color: #FFEBCD;
+        width:960px;
+        border: 200px 200px;
+        margin: 0 auto;
+        font-family: Helvetica, sans-serif;
+        padding-bottom: 50px;
+        border-radius: 35px;
+        font-size: 30;
+        font-weight: bolder;
+}
+p{
+
+  font-size: 20;
+}
+}
+div.Title
+{
+float: left;
+font-family: Helvetica, sans-serif;
+font-size: 30;
+text-align: left;
+font-weight: 1000px;
+background-color: #4a4a4a;
+}
+
+
+div.intro
+        {background-color: #e4e4e4;
+            padding: 25px 25px 25px 25px;
+            margin: 0 auto;
+            overflow: hidden;
+            font-family: Helvetica, sans-serif;
+            width:50%;
+
+            text-align: left;
+          }
+
+div.everythingelse{
+  width: 72.5%;
+  float:right;
+
+
+
+}
+article
+{background-color: #e4e4e4;
+
+    padding: 25px;
+    margin: 0 auto;
+    overflow: hidden;
+    font-family: Helvetica, sans-serif;
+    width:960px;
+    max-width: 50%;
+
+  }
+
+
+div.intro{
+  text-align: center;
+  float: none;
+}
+
+ul
+{ background-color: #e4e4e4;
+    width: 960px;
+    float:left;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    background-color: inherit;
+    font-size: 20;
+    margin-top: 0;
+    border-radius: 0 0 15px 15px;
+
+
+}
+
+h2
+{background-color: #FFEBCD;
+  width:1000px;
+  padding: 30px 30px;
+  margin: 0 auto;
+  font-size: 22;
+  border-radius: 15px 30px;
+  font-family: Helvetica, sans-serif;
+  max-width:60%;
+
+}
+
+h3{
+  float: left;
+  width: 25%;
+
+
+}
+
+div.Results {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+  max-width: 960px;
+  margin:auto;
+
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  }
+
+    div.Results:hover {
+        border: 1px solid #777;
+      }
+
+    div.Results img {
+        width: 90%;
+        height: auto;
+        }
+
+
+div.IdealJob {
+  padding: 6px 6px;
+
+  max-width: 960px;
+
+  border: 1px solid #ccc;
+  float:left;
+  width: 50%;
+}
+
+  div.IdealJob:hover {
+    border: 1px solid #777;
+}
+
+  div.IdealJob img {
+    width: 100%;
+    height: auto;
+}
+
+div.IdealJob2 {
+  padding: 6px 6px;
+
+  max-width: 960px;
+
+  border: 1px solid #ccc;
+  float: right;
+  width: 47%;
+}
+
+  div.IdealJob2:hover {
+    border: 1px solid #777;
+}
+
+  div.IdealJob2 img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+div.DisplayPicture {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+  max-width: 960px;
+  margin:0 auto;
+
+  width: 180px;
+  margin: 5px;
+  float: left;
+
+}
+div.desc{
+font-size: 16;
+
+
+}
+  div.Displaypicure:hover {
+    border: 1px solid #777;
+}
+
+  div.DisplayPicture img {
+    width: 100%;
+    height: auto;
+}
+div.clear
+{clear: both;
+
+
+}
